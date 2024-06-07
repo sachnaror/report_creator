@@ -81,8 +81,16 @@ paths:
 
 
 
+## Images
 
-![Alt text](/Users/homesachin/Desktop/1.jpg)
+![Alt text](images/1.jpg)
 
-![Alt text](/Users/homesachin/Desktop/2.jpg)
+![Alt text](images/2.jpg)
 
+
+
+
+
+# ![Alt text](/Users/homesachin/Desktop/1.jpg)
+
+# ![Alt text](/Users/homesachin/Desktop/2.jpg)
