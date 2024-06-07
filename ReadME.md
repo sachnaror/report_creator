@@ -81,7 +81,10 @@ paths:
 
 
 
-![alt text](<Group 1171276034.jpg>)
+![Group 1171276034](https://github.com/sachnaror/report_creator/assets/9551754/bc2187fb-d6a0-4653-b4c0-d0deb47ac337)
+
+![Group 1171276035](https://github.com/sachnaror/report_creator/assets/9551754/b29bb6d9-676d-493f-94a4-9657b8006138)
+
 
 
 ![alt text](<Group 1171276035.jpg>)
