@@ -36,6 +36,15 @@ This repository is Python's Django with API endpoints documented using Swagger (
 
 5. Start Django development server and navigate to the API documentation URL (e.g., `http://localhost:8000/swagger/`) to view the interactive API documentation generated from this Swagger configuration.
 
+
+## Images
+
+![Image 1](images/1.jpg)
+
+![Image 2](images/2.jpg)
+
+
+
 ## Example
 
 Here's an example of how you might define a file upload endpoint in Swagger YAML format:
@@ -82,8 +91,3 @@ paths:
 
 
 
-## Images
-
-![Image 1](images/1.jpg)
-
-![Image 2](images/2.jpg)
