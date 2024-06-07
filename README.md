@@ -79,5 +79,3 @@ paths:
                   error:
                     type: string
 
-
-
