@@ -1,4 +1,4 @@
-## Uplaod spreadsheet and fetch JSON response
+## Uplaod Spreadsheet & Fetch JSON Response
 
 ## API Documentation with Swagger
 
@@ -81,6 +81,8 @@ paths:
 
 
 
-/Users/homesachin/Desktop/1.jpg)
 
-/Users/homesachin/Desktop/2.jpg)
+![Alt text](/Users/homesachin/Desktop/1.jpg)
+
+![Alt text](/Users/homesachin/Desktop/2.jpg)
+
