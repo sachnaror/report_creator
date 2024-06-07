@@ -81,7 +81,3 @@ paths:
 
 
 
-![alt text](<Group 1171276034.jpg>)
-
-
-![alt text](<Group 1171276035.jpg>)
