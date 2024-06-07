@@ -80,8 +80,10 @@ paths:
                     type: string
 
 
-![2](https://github.com/sachnaror/report_creator/assets/9551754/9d0db523-1692-4f33-a090-cba3789e7c51)
-![1](https://github.com/sachnaror/report_creator/assets/9551754/d43f828f-3839-4623-b42e-61f124a02121)
+
+![1](https://github.com/sachnaror/report_creator/assets/9551754/a3a67efa-421a-435e-8756-a25add86068a)
+
+![2](https://github.com/sachnaror/report_creator/assets/9551754/4192a157-9a06-4d58-b076-8609dea5ec3a)
 
 
 
