@@ -87,6 +87,8 @@ paths:
 
 [Alt text](/images/2.jpg)
 
+![1](https://github.com/sachnaror/report_creator/assets/9551754/6cca3243-cdb3-4e72-8ba2-3edfeb7bc4a2)
+
 
 
 
