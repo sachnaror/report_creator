@@ -1,13 +1,13 @@
 # Django API Documentation with Swagger/OpenAPI
 
-This repository contains an example Django project with API endpoints documented using Swagger/OpenAPI. This `README.md` file explains how to set up and use Swagger/OpenAPI to document your Django API.
+This repository contains an example Django project with API endpoints documented using Swagger/OpenAPI. This `README.md` file explains how to set up and use Swagger to document our Django API.
 
 ## Setup
 
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/your-repo.git
+    git clone https://github.com/sachnaror/report_creator.git
     ```
 
 2. Install the required dependencies using pip:
@@ -24,15 +24,15 @@ This repository contains an example Django project with API endpoints documented
 
 ## Usage
 
-1. Define your API endpoints in the Django project's `urls.py` file.
+1. API endpoints in the Django project's `urls.py` file.
 
-2. Create a separate YAML or JSON file to hold your Swagger/OpenAPI configuration. You can name this file `swagger.yaml`, `openapi.yaml`, or something similar.
+2. Created a separate YAML or JSON file to hold our Swagger/OpenAPI configuration. You can name this file `swagger.yaml`.
 
-3. Define paths, operations, request/response formats, parameters, and headers in your Swagger configuration file. Refer to the [Swagger/OpenAPI Specification](https://swagger.io/specification/) for details on how to structure your configuration.
+3. Defined the paths, operations, request/response formats, parameters, and headers in your Swagger configuration file. Refer to the [Swagger Specification](https://swagger.io/specification/) for details on how to structure this configuration.
 
-4. If you're using a tool like Swagger UI, Swagger Editor, or ReDoc to generate API documentation, reference your Swagger configuration file in the tool's settings or configuration.
+4. Because i'm using Swagger UI, Swagger Editor, or ReDoc to generate API documentation, I'm referencing this Swagger configuration file in the tool's settings or configuration.
 
-5. Start your Django development server and navigate to the API documentation URL (e.g., `http://localhost:8000/swagger/`) to view the interactive API documentation generated from your Swagger configuration.
+5. Start Django development server and navigate to the API documentation URL (e.g., `http://localhost:8000/swagger/`) to view the interactive API documentation generated from this Swagger configuration.
 
 ## Example
 
