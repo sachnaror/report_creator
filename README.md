@@ -1,8 +1,8 @@
-## Uplaod Spreadsheet & Fetch JSON Response
+## Upload Spreadsheet & Fetch JSON Response
 
 ## API Documentation with Swagger
 
-This repository is jango with API endpoints documented using Swagger (check views.py and load your own xlsx sheet to run and see the JSON results). This `README.md` file explains how to set up and use Swagger to document our Django API.
+This repository is Python's Django with API endpoints documented using Swagger (check views.py and load your own xlsx sheet to run and see the JSON results). This `README.md` file explains how to set up and use Swagger to document our Django API.
 
 ## Setup
 
