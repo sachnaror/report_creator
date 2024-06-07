@@ -82,5 +82,8 @@ paths:
 
 
 
-/Users/homesachin/Desktop/1.png
+## Images
 
+![Image 1](images/1.jpg)
+
+![Image 2](images/2.jpg)
