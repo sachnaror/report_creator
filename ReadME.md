@@ -1,6 +1,8 @@
-# Django API Documentation with Swagger
+## JSON Extractor from  spreadsheet uplaod
 
-This repository contains an example Django project with API endpoints documented using Swagger/OpenAPI. This `README.md` file explains how to set up and use Swagger to document our Django API.
+## API Documentation with Swagger
+
+This repository is jango with API endpoints documented using Swagger (check views.py and load your own xlsx sheet to run and see the JSON results). This `README.md` file explains how to set up and use Swagger to document our Django API.
 
 ## Setup
 
@@ -76,3 +78,10 @@ paths:
                 properties:
                   error:
                     type: string
+
+
+
+![alt text](<Group 1171276034.jpg>)
+
+
+![alt text](<Group 1171276035.jpg>)
