@@ -83,7 +83,7 @@ paths:
 
 ## Images
 
-![Alt text](images/1.jpg)
+![Alt text](images/1.jpeg)
 
 ![Alt text](images/2.jpg)
 
