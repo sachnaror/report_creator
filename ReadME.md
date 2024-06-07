@@ -80,9 +80,8 @@ paths:
                     type: string
 
 
-![Group 1171276034](https://github.com/sachnaror/report_creator/assets/9551754/99cbbd23-8476-4c4e-8dbd-f9f6ea2ccf1f)
-![Group 1171276035](https://github.com/sachnaror/report_creator/assets/9551754/ad3431c2-e9d6-4e14-9520-1024ff6f7522)
-
+![2](https://github.com/sachnaror/report_creator/assets/9551754/9d0db523-1692-4f33-a090-cba3789e7c51)
+![1](https://github.com/sachnaror/report_creator/assets/9551754/d43f828f-3839-4623-b42e-61f124a02121)
 
 
 
