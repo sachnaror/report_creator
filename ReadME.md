@@ -1,4 +1,4 @@
-# Django API Documentation with Swagger/OpenAPI
+# Django API Documentation with Swagger
 
 This repository contains an example Django project with API endpoints documented using Swagger/OpenAPI. This `README.md` file explains how to set up and use Swagger to document our Django API.
 
