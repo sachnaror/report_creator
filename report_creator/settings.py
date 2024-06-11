@@ -1,4 +1,3 @@
-
 from pathlib import Path
 
 from drf_yasg import openapi
